@@ -1,0 +1,22 @@
+name: MxKit
+version: 4.3-SNAPSHOT
+main: br.com.mxtheuz.MxPlugin
+
+commands:
+  dono:
+  admin:
+  moderador:
+  discord:
+  perm:
+  unperm:
+  kit:
+  vip:
+  unvip:
+
+permissions:
+  admin:
+    description: Administradores do servidor.
+  moderador:
+    description: Moderadores do servidor.
+
+
