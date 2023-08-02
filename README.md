@@ -1,4 +1,4 @@
-# MxKit Plugin
+# Mx Kit Plugin
 
 ## About the Plugin
 
