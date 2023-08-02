@@ -17,7 +17,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import java.util.HashMap;
 import java.util.UUID;
 
-public class TutorialPlugin extends JavaPlugin {
+public class MxKit extends JavaPlugin {
 
     public HashMap<UUID, PermissionAttachment> playersPermissions = new HashMap<>();
 
