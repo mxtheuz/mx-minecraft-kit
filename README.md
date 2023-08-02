@@ -15,7 +15,7 @@ The `MxKit` plugin is a Bukkit plugin developed by mxtheuz, aimed at enhancing t
 
 To install the `MxKit` plugin, follow these steps:
 
-1. Download the latest version of the plugin JAR file from the [Releases](https://github.com/mxtheuz/mx-minecraft-kit/releases) page.
+1. Build the application with your JDK.
 2. Place the downloaded JAR file into the `plugins` folder of your Bukkit server.
 3. Restart your Minecraft server to load the plugin.
 
