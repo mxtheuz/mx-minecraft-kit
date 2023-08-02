@@ -46,4 +46,6 @@ For any assistance or queries related to the `MxKit` plugin, feel free to [open 
 
 The `MxKit` plugin was developed by [mxtheuz](https://github.com/mxtheuz), and contributions from the Bukkit community are greatly appreciated.
 
----
+<hr>
+
+Could you follow me? ❤
